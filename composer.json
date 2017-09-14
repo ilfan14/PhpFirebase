@@ -8,5 +8,7 @@
             "email": "ilfan.highker@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "kreait/firebase-php": "^3.1"
+    }
 }
