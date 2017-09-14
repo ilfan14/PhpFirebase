@@ -11,4 +11,5 @@
     "require": {
         "kreait/firebase-php": "^3.1"
     }
+   
 }

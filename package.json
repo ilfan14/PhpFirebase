@@ -1,0 +1,26 @@
+{
+  "name": "phpfirebase",
+  "version": "1.0.0",
+  "description": "Ini adalah project repository untuk Tutorial / Project percobaan untuk Firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilfan14/PhpFirebase.git"
+  },
+  "keywords": [
+    "phpfirebase"
+  ],
+  "author": "ilfan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilfan14/PhpFirebase/issues"
+  },
+  "homepage": "https://github.com/ilfan14/PhpFirebase#readme",
+  "dependencies": {
+    "firebase-admin": "^5.2.1",
+    "nodemon": "^1.12.0"
+  }
+}
