@@ -1,0 +1,12 @@
+{
+    "name": "highkers/phpfirebase",
+    "description": "Project test and Tutorial PHP Firebase",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ilfan14",
+            "email": "ilfan.highker@gmail.com"
+        }
+    ],
+    "require": {}
+}
